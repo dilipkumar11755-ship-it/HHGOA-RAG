@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+qdrant-client
+sentence-transformers
+groq
+python-dotenv
+requests
+python-multipart
+aiofiles
+rank-bm25
+httpx
