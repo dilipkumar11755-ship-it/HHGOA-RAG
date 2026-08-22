@@ -7,7 +7,7 @@ A real-time voice-enabled Retrieval-Augmented Generation system built on the **a
 ---
 
 ## Live Demo
-🔗 [Live Link — add after deployment]
+🔗 [Live Link — https://hhgoa-rag-9ios.onrender.com]
 
 ---
 
